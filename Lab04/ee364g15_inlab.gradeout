@@ -1,0 +1,32 @@
+Lab04/inlab/ee364g15
+
+
+------------------------------------------------------------------------------------------
+FUNCTION                  | DESCRIPTION               | COMMENTS                  | POINTS    
+------------------------------------------------------------------------------------------
+allowAccessFor              Invalid User Test           Error running function      0/2       
+allowAccessFor              Valid User 1 Test           Passed                      4/4       
+allowAccessFor              Valid User 2 Test           Passed                      4/4       
+getFloorAttemptSummary      Floor 1 Test                Passed                      4/4       
+getFloorAttemptSummary      Floor 2 Test                Passed                      4/4       
+getFloorAttemptSummary      Total Count Test            Passed                      2/2       
+getFloorPermissions         Key 1 Test                  Passed                      5/5       
+getFloorPermissions         Key 2 Test                  Passed                      5/5       
+getFloorRooms               Key 1 Test                  Passed                      5/5       
+getFloorRooms               Key 2 Test                  Passed                      5/5       
+getRequestsBy               Invalid User Test           Passed                      2/2       
+getRequestsBy               Valid User 1 Test           Passed                      4/4       
+getRequestsBy               Valid User 2 Test           Passed                      4/4       
+getRoomAttemptSummary       Room 1 Test                 Error running function      0/2       
+getRoomAttemptSummary       Room 2 Test                 Error running function      0/2       
+getRoomAttemptSummary       Total Count Test            Error running function      0/1       
+getUserAttemptSummary       Total Count Test            Passed                      2/2       
+getUserAttemptSummary       User 1 Test                 Passed                      4/4       
+getUserAttemptSummary       User 2 Test                 Passed                      4/4       
+getUserPermissions          Key 1 Test                  Passed                      5/5       
+getUserPermissions          Key 2 Test                  Passed                      5/5       
+processRequests             Index 03 Test               Passed                      5/5       
+processRequests             Index 24 Test               Passed                      5/5       
+------------------------------------------------------------------------------------------
+
+Total Score = 78

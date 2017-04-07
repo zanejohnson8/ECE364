@@ -1,0 +1,29 @@
+Lab03/ee364g15
+
+
+------------------------------------------------------------------------------------------
+FUNCTION                  | DESCRIPTION               | COMMENTS                  | POINTS    
+------------------------------------------------------------------------------------------
+getAverageByDay             Invalid Day                 FAILED                      0/2       
+getAverageByDay             Valid Day 1                 Passed                      4/4       
+getAverageByDay             Valid Day 2                 Passed                      4/4       
+getAverageBySignal          Invalid Signal              FAILED                      0/2       
+getAverageBySignal          Valid Signal 1              Passed                      4/4       
+getAverageBySignal          Valid Signal 2              Passed                      4/4       
+getCumulativeSum            Complete List               Passed                      10/10     
+getPalindromes              Complete List               Passed                      10/10     
+getTheSolution              Correct Answer              FAILED                      0/5       
+getWords                    Multiple Match Test         FAILED                      0/4       
+getWords                    No Match Test               FAILED                      0/3       
+getWords                    Single Match Test           FAILED                      0/3       
+partition                   Complex Stream              FAILED                      0/5       
+partition                   Simple Stream               FAILED                      0/5       
+split                       Empty List                  FAILED                      0/2       
+split                       Good Input 1                Passed                      3/3       
+split                       Good Input 2                FAILED                      0/3       
+split                       Invalid Type                FAILED                      0/2       
+transpose                   Input 1                     Passed                      5/5       
+transpose                   Input 2                     Passed                      5/5       
+------------------------------------------------------------------------------------------
+
+Total Score = 49

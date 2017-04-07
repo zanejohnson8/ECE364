@@ -1,0 +1,24 @@
+#! /bin/bash
+
+#----------------------------------
+# $Author$
+# $Date$
+#----------------------------------
+
+
+
+Num_Of_Param=$#
+txtfiles=$@
+cnt=$Num_Of_Param
+arrtext=($txtfiles)
+
+if (( $cnt < 2 ))
+then 
+	echo "Usage: Bash_PartII.bash <file> <balance>"
+	exit 2
+fi
+
+name=$(echo "${arrtext[0]}" | cut -d'.' -f1)
+echo "$name_new.csv"
+cat ${arrtext[0]} > echo "$name_new.csv"
+

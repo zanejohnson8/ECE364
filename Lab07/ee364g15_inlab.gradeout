@@ -1,0 +1,35 @@
+Lab07/inlab/ee364g15
+
+-----------------------------------------------------------------------------------------
+FUNCTION                             | DESCRIPTION | COMMENTS                 | POINTS  
+-----------------------------------------------------------------------------------------
+experiment_initializerAndAttributes    Cost         Passed                     1/1     
+experiment_initializerAndAttributes    Count        Passed                     1/1     
+experiment_initializerAndAttributes    Date         Passed                     1/1     
+experiment_initializerAndAttributes    Name         Passed                     1/1     
+experiment_initializerAndAttributes    Number       Passed                     1/1     
+experiment_initializerAndAttributes    TotalCost    Passed                     1/1     
+experiment_representation                           FAILED                     0/4     
+laboratory_addTechnician               Add          Passed                     2/2     
+laboratory_addTechnician               Update       Error running function     0/3     
+laboratory_generateActivity                         Passed                     10/10   
+laboratory_getTechnicians              Get1         Passed                     2/2     
+laboratory_getTechnicians              Get2         Passed                     3/3     
+laboratory_initializerAndAttribute     Map          Passed                     3/3     
+laboratory_initializerAndAttribute     Name         Passed                     2/2     
+laboratory_representation                           Passed                     5/5     
+technician_addExperiment               Add          Passed                     2/2     
+technician_addExperiment               Update       Passed                     3/3     
+technician_generateActivity                         Passed                     10/10   
+technician_getExperiment               Absent       Passed                     3/3     
+technician_getExperiment               Present      Passed                     2/2     
+technician_initializerAndAttribute     ID           Passed                     3/3     
+technician_initializerAndAttribute     Name         Passed                     2/2     
+technician_loadExperimentsFromFile     All          Passed                     1/1     
+technician_loadExperimentsFromFile     Virus 1      Passed                     3/3     
+technician_loadExperimentsFromFile     Virus 2      Passed                     3/3     
+technician_loadExperimentsFromFile     Virus 3      Passed                     3/3     
+technician_representation                           Passed                     5/5     
+-----------------------------------------------------------------------------------------
+
+Total Score = 73.0

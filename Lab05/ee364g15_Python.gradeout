@@ -1,0 +1,20 @@
+Lab05/ee364g15
+
+
+------------------------------------------------------------------------------------------
+FUNCTION                  | DESCRIPTION               | COMMENTS                  | POINTS    
+------------------------------------------------------------------------------------------
+getComponentsToAdd          CDW                         FAILED                      0/4       
+getComponentsToAdd          General Check               FAILED                      0/2       
+getComponentsToAdd          GovConnection               FAILED                      0/4       
+getSampledSignals           Signal = 'CIG308'           FAILED                      0/5       
+getSampledSignals           Signal = 'FPT701'           FAILED                      0/5       
+getSummary                  Entry Count                 Passed                      5/5       
+getSummary                  Signal = 'XDF846'           FAILED                      0/5       
+identifyCheapest            Set 1                       Passed                      5/5       
+identifyCheapest            Set 2                       Passed                      5/5       
+saveContinuousData          Data in [0.0, 2.0]          Error running function      0/5       
+saveContinuousData          Data in [25.125, 31.0]      Error running function      0/5       
+------------------------------------------------------------------------------------------
+
+Total Score = 15
