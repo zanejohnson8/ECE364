@@ -1,0 +1,29 @@
+Lab08/inlab/ee364g15
+
+
+------------------------------------------------------------------------------------------
+FUNCTION                  | DESCRIPTION               | COMMENTS                  | POINTS    
+------------------------------------------------------------------------------------------
+isNameValid                 342-ACX                     Passed                      2/2       
+isNameValid                 ABC-1234                    Passed                      2/2       
+isNameValid                 ACVB5432                    Passed                      2/2       
+isNameValid                 ASX-202                     Passed                      4/4       
+isSignalAcceptable          No data                     Passed                      3/3       
+isSignalAcceptable          Range 1                     Passed                      3/3       
+isSignalAcceptable          Range 2                     Passed                      3/3       
+isSignalAcceptable          Range 3                     Passed                      3/3       
+isSignalAcceptable          Range 4                     Passed                      3/3       
+loadSignal                  Bad Signal 1                Passed                      3/3       
+loadSignal                  Bad Signal 2                Passed                      3/3       
+loadSignal                  Missing Signal              Passed                      4/4       
+loadSignal                  Signal Count 1              Passed                      2/2       
+loadSignal                  Signal Count 2              Passed                      2/2       
+loadSignal                  Signal Values 1             Passed                      3/3       
+loadSignal                  Signal Values 2             Passed                      3/3       
+loadSignals                 Whole Dictionary            FAILED                      0/20      
+saveSignals                 Files Count                 Passed                      5/5       
+saveSignals                 Signal 1                    Passed                      5/5       
+saveSignals                 Signal 2                    Passed                      5/5       
+------------------------------------------------------------------------------------------
+
+Total Score = 60.0
